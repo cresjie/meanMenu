@@ -1,0 +1,19 @@
+{
+	"name": "meanmenu",
+	"description": "A menu system for converting a standard menu into a mobile/tablet responsive menu, media query independent.",
+	"keywords": [
+		"meanmenu",
+		"meanthemes",
+		"jquery-plugin"
+	],
+	"version": "2.0.8",
+	"moduleType": "globals",
+	"license": "GPL",
+	"main": [
+		"jquery.meanmenu.js"
+	],
+	"ignore": [],
+	"dependencies": {
+	  	"jquery" : "^1.8.0"
+	}	
+}
